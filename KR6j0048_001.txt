@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:24.809724
+#+DATE: 2015-08-30 20:24:25.298393
 #+TITLE: 賢劫十六尊
 #+PROPERTY: CBETA_ID T18n0881
 #+PROPERTY: ID KR6j0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 881
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0048_T_000-0339a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0048_T_001-0339a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.881¶
-
- 賢劫十六尊¶
+No. 881¶
+賢劫十六尊¶
 ¶
 
 #+BEGIN_VERSE
@@ -49,7 +48,7 @@ No.881¶
 唵每去怛隸二合夜野娑嚩賀阿¶
 ¶
 
-唵阿目佉引那㗚捨二合曩野娑嚩賀¶
+唵阿目佉引那[口*栗]捨二合曩野娑嚩賀¶
 ¶
 誐¶
 ¶
@@ -57,7 +56,7 @@ No.881¶
 唵薩嚩幡引野惹賀野娑嚩賀婆¶
 ¶
 
-唵薩嚩戌迦怛母儞㗚伽二合多摩¶
+唵薩嚩戌迦怛母儞[口*栗]伽二合多摩¶
 ¶
 多曳娑嚩賀暗¶
 ¶
@@ -65,7 +64,7 @@ No.881¶
 唵誐馱賀引悉多二合儞娑嚩賀虐¶
 ¶
 
-唵秫羅又野引娑嚩賀尾¶
+唵[禾*(尤-尢+木)]羅又野引娑嚩賀尾¶
 ¶
 
 唵誐誐曩彥惹引野娑嚩賀惡(引)¶
