@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:24.809724
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:05
 #+TITLE: 賢劫十六尊
 #+PROPERTY: CBETA_ID T18n0881
 #+PROPERTY: ID KR6j0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 881
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0048_T_000-0339a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0048_T_001-0339a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.881¶
-
- 賢劫十六尊¶
+No. 881¶
+賢劫十六尊¶
 ¶
 
 #+BEGIN_VERSE
@@ -40,9 +39,9 @@ No.881¶
 　金剛藏獨股¶
 　普賢五智印
 　種子初阿字¶
-　吽字左按地
+　吽字左按地」
 #+END_VERSE
-」¶
+¶
 
 彼彼真言曰。¶
 
@@ -143,9 +142,9 @@ No.881¶
 　調伏金剛劍
 　門東多門天(金色)¶
 　掌塔持寶棒
-　伊舍那戟印(左持劫波羅)
+　伊舍那戟印(左持劫波羅)」
 #+END_VERSE
-」¶
+¶
 
 彼彼真言曰。¶
 
@@ -218,9 +217,9 @@ No.881¶
 　皆在曼荼羅¶
 　應當具開示
 　供養夜迦天¶
-　應居北門東
+　應居北門東」
 #+END_VERSE
-」¶
+¶
 
 彼真言曰。¶
 
